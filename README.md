@@ -1,2 +1,5 @@
-# Tinh-Tien-Dien-Java-Android
-App Android Tính Tiền Điện
+# Tinh Tien Dien
+# Flow chương trình:
+Input:
+
+Output:
