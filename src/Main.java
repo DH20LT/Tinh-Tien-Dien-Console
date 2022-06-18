@@ -14,9 +14,7 @@ public class Main {
 		try (Scanner myObj = new Scanner(System.in)) {
 			System.out.println("Nhập tiền điện tháng");
 			String userName = myObj.nextLine();
-			System.out.println("Username is: " + userName);  // Output user input
+			System.out.println("Tiền điện: " + userName);  // Output user input
 		}
-		
 	}
-
 }
